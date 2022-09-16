@@ -20,8 +20,8 @@ The result for the customers that bought the most of each product was also provi
 Further computation was performed using one-hot encoding, principal component analysis (PCA), and K-Means clustering to create clusters of products that are regularly purchased together.
 5 clusters were created and the products that made up each cluster was listed.
 
-The output of the first 2 clusters can be seen in the image below.
+The output of the first 3 clusters can be seen in the image below.
 <img width="794" alt="Screen Shot 2022-09-15 at 9 52 22 PM" src="https://user-images.githubusercontent.com/77176412/190546479-640a6f39-f431-4e41-8273-ac6ae93db595.png">
-At first glance, it can be established that the first cluster contains fruits and the second contains vegetables. It is no surprise that these are commonly purchased together and can therefore be grouped together in the store.
+At first glance, it can be established that the first cluster contains fruits and the third contains vegetables. It is no surprise that these are commonly purchased together and can therefore be grouped together in the store.
 
 The full script of the grocery clustering project can be found here: https://github.com/juwonlo-tech/Grocery-Clustering/blob/main/Grocery%20Clustering.ipynb
